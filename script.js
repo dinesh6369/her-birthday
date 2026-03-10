@@ -309,7 +309,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const giftReveal = document.getElementById('giftReveal');
 
   // The secret name — change this to any word you want
-  const SECRET_NAME = 'helo';
+  const SECRET_NAME = 'dinesh';
 
   // Unlock button click handler
   unlockBtn.addEventListener('click', checkGiftName);
